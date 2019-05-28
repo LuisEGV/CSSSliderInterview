@@ -1,3 +1,10 @@
+# Informacion: Hora Inicial del Trabajo 1:11pm hasta 5pm. Con un descanso de 1 Hora 30 Minutos debido a un asunto familiar.
+
+## Termine el Layout del Proyecto, pero no me dio tiempo de implementar los scripts para que los colores se cambiaran en base al input del usiario.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
