@@ -21,9 +21,10 @@ p {
 }
 
 .column1{
-    width: 20%;
+    width: 50%;
     height: 100%;
     float: left;
+    max-width:400px;
 
 }
 
@@ -42,9 +43,10 @@ p {
 
 .ColourDisplay{
   height: 250px;
-  width: 400px;
+  width: 407px;
   background: linear-gradient(#e66465, #9198e5);
   margin-left: 10px;
+  margin-bottom: 10px;
   border-radius: 5px;
 
 }
@@ -54,6 +56,7 @@ p {
   width: 50px;
   border-radius: 5px;
   background: #e66465;
+  margin-left: 80px;
 }
 
 .Square2{
@@ -61,6 +64,29 @@ p {
   width: 50px;
   border-radius: 5px;
   background: #9198e5;
+  margin-left: 80px;
+  margin-right: 200px;
+}
+
+.Textlater{
+  margin-left: 70px;
+}
+
+.Info{
+  padding: 1px;
+  border-style: solid;
+  border-color: grey;
+  background-color: #282c34;
+  margin-left: 10px;
+  border-radius: 5px;
+  height: 120px;
+  width: 400px;
+}
+
+.Infotext{
+  color: grey;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 .Menu-header {
@@ -71,6 +97,15 @@ p {
 }
 
 .Button {
+ width: inherit;
+ margin-left: 5px;
+ border-radius: 5px;
+ color: black;
+ background: white;
+
+}
+
+.Input {
  width: 50px;
  margin-left: 5px;
  border-radius: 5px;

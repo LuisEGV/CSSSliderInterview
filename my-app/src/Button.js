@@ -1,7 +1,13 @@
-import React from 'react'
+import React, {Component} from 'react'
 import { Button } from 'semantic-ui-react'
 import './App.css';
 
-const Button1 = () => <Button className="Button">Light</Button>
+class Button1 extends Component {
+  render() {
+    return(
+      <Button className="Button">{this.props.name}</Button>
+    );
+  }
+}
 
 export default Button1
