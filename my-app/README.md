@@ -2,6 +2,8 @@
 
 ## Termine el Layout del Proyecto, pero no me dio tiempo de implementar los scripts para que los colores se cambiaran en base al input del usiario.
 
+![Screenshot](my-app/Screenshot 5pm.JPG)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
